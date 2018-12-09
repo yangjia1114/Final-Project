@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string-array name="Catogries">
+        <item>Length</item>
+        <item>Time</item>
+        <item>Weight</item>
+        <item>Exchangerate</item>
+    </string-array>
+</resources>
